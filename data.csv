@@ -15646,6 +15646,18 @@ txHash,tokenId,class,breedCount,withPrice,withPriceUsd,timestamp,part1,part2,par
 0x5047f047431b041071e1dd103ef768fa2ba600916733f4bad042de4cf021ebea,11749491,Bug,0,"0,005","8,71",2023-06-14 15:46:47,eyes-gecko,ears-pink-cheek,back-spiky-wing,mouth-square-teeth,horn-bumpy,tail-nimo
 0x21bcecde2682511ddd7c17cf0ea1a61733746b54b456a2ba3a4ea115a697d507,11742051,Dawn,1,"0,006","10,45",2023-06-14 15:46:41,eyes-gero,ears-innocent-lamb,back-tri-feather,mouth-confident,horn-wing-horn,tail-cottontail
 0xcfee59e390feb5a10de4a6605306beacf865e7b546330ef4231d6bc6f18641c7,11377065,Reptile,0,"0,002","3,48",2023-06-14 15:46:14,eyes-little-owl,ears-pogona,back-balloon,mouth-razor-bite,horn-scaly-spear,tail-wall-gecko
+0x99b39208edd1d2c6654665a4fdfeda1d671ce5bbe735f03942541e948a3577a1,11726440,Dusk,0,"0,0007","1,22",2023-06-14 15:50:05,eyes-zeal,ears-swirl,back-pumpkin,mouth-doubletalk,horn-cactus,tail-hatsune
+0xf84a03eee178daec183b10c08042cc90524e7c8a946f280c6071a5f3d0692ad3,11462333,Reptile,0,"0,003","5,23",2023-06-14 15:49:38,eyes-gecko,ears-curved-spine,back-indian-star,mouth-kotaro,horn-teal-shell,tail-tiny-dino
+0x3c2123329e786d84a9c8cad1f78be15d2ec6c324a9ec169a98a1d5357cfec950,11772987,Bug,3,"0,012","20,91",2023-06-14 15:49:35,eyes-topaz,ears-innocent-lamb,back-spiky-wing,mouth-square-teeth,horn-bumpy,tail-nimo
+0x347b46fc06e7136748d5f64bc2754e72005b281e2337290ad983d74a1f7fae82,3645828,Beast,3,"0,0018","3,14",2023-06-14 15:49:35,eyes-chubby,ears-innocent-lamb,back-ronin,mouth-goda,horn-imp,tail-cottontail
+0xe3a2b925b9b8880c4361d572db5ccec4905cf38e5dfecf0aed7dd7dccd31cb08,10349866,Plant,4,"0,0008","1,39",2023-06-14 15:49:35,eyes-papi,ears-nut-cracker,back-sandal,mouth-zigzag,horn-cactus,tail-cattail
+0x500d239c5ac000f1dd551446f75dfa4363cd3ad6cd788912e20536e917fa44d9,107904,Plant,2,"0,001095","1,91",2023-06-14 15:49:20,eyes-gero,ears-hollow,back-goldfish,mouth-zigzag,horn-rose-bud,tail-feather-fan
+0x5b83f8dc62a8de85aaa321e519126e86c8287c2d56cfa2fa71d197734c696cf8,10037366,Mech,4,"0,0006564","1,14",2023-06-14 16:30:56,eyes-robin,ears-curly,back-hero,mouth-goda,horn-bumpy,tail-hare
+0xea1a1b5a21627372c8e10c3922bb3a7431ecca2899936ee1b0891fa25eeaadeb,11708526,Reptile,4,"0,016","27,87",2023-06-14 16:29:32,eyes-gecko,ears-small-frill,back-tri-spikes,mouth-tiny-turtle,horn-watermelon,tail-potato-leaf
+0xbe8d64dd89422c4ed77524b0df1eb7e36c44a9e53a5b4c6aa1e4e85e60270961,133348,Plant,2,"0,0015","2,61",2023-06-14 16:29:20,eyes-cucumber-slice,ears-tiny-fan,back-timber,mouth-herbivore,horn-rose-bud,tail-cattail
+0xc9f9d49ab7450ce7025674249f839ab3765efc3025ae6df0553914718b00c639,9683422,Plant,3,"0,00100556","1,75",2023-06-14 16:29:08,eyes-papi,ears-leafy,back-pumpkin,mouth-serious,horn-cactus,tail-hot-butt
+0x52795dd90e3da47aa9627cc7bb95858c1aeb62e1f6582e0f922181532a4cd561,10877247,Dusk,0,"0,001","1,74",2023-06-14 16:28:35,eyes-telescope,ears-owl,back-bone-sail,mouth-zigzag,horn-pocky,tail-cattail
+0x73f9fd139406fae6f4aac4b970c25682c7885bf1f859656063ace75455cba32e,11637255,Dawn,3,"0,055","95,82",2023-06-14 16:28:14,eyes-tricky,ears-innocent-lamb,back-green-thorns,mouth-axie-kiss,horn-scaly-spoon,tail-cottontail
 0x4bdb65520bb4430cf29aa4ccea5d2ca245814b049c9c7cead3280e62662745a8,11671383,Bird,0,"0,0012","2,09",2023-06-14 16:27:44,eyes-mavis,ears-earwing,back-tri-feather,mouth-serious,horn-eggshell,tail-granmas-fan
 0xf5acd7e1629f2d9e5d3fbc087bab40e26b52fa418d8a4c2af8a8d9b292dd45a5,11747425,Bird,4,"0,004","6,97",2023-06-14 16:26:47,eyes-chubby,ears-innocent-lamb,back-tri-feather,mouth-kotaro,horn-lagging,tail-cottontail
 0x2478d37436188927c3225bf91d1345a94156762885d297e7192f017a8ac3fa30,1942404,Aquatic,0,"0,00063","1,1",2023-06-14 16:26:02,eyes-zeal,ears-gill,back-risky-beast,mouth-nut-cracker,horn-oranda,tail-koi
@@ -15654,9 +15666,9 @@ txHash,tokenId,class,breedCount,withPrice,withPriceUsd,timestamp,part1,part2,par
 0x5707b4e8ca8ed42929e04c9e899d466576de47e81a3a4fcb498f11feaeaead0f,2092054,Reptile,2,"0,001095","1,91",2023-06-14 16:24:20,eyes-little-peas,ears-peace-maker,back-mint,mouth-kotaro,horn-leaf-bug,tail-yam
 0xe63276624d41d268f7c6e2302fab8c8a5d3dfd6cd89588d0277d5cff8c416896,11751305,Mech,3,"0,009","15,68",2023-06-14 16:24:02,eyes-topaz,ears-innocent-lamb,back-goldfish,mouth-hungry-bird,horn-shoal-star,tail-nimo
 0x7a2f2821852c13aa4e6bf5fcc85379ca9dbe3325357f3e673fc0fd89573433f0,11759602,Dawn,5,"0,031","54,01",2023-06-14 16:23:41,eyes-clear,ears-innocent-lamb,back-timber,mouth-confident,horn-bumpy,tail-cottontail
-0x41401c6f01749720e6ea851e1fc5c62e4a070fc41411a588afa12ddef41a95e4,11762118,Reptile,4,"0,00749","13,05",2023-06-14 16:23:26,eyes-blossom,ears-leafy,back-watering-can,mouth-tiny-turtle,horn-bamboo-shoot,tail-potato-leaf
+0x41401c6f01749720e6ea851e1fc5c62e4a070fc41411a588afa12ddef41a95e4,11762118,Reptile,6,"0,00749","13,05",2023-06-14 16:23:26,eyes-blossom,ears-leafy,back-watering-can,mouth-tiny-turtle,horn-bamboo-shoot,tail-potato-leaf
 0x3dd7144510949f7af3401aec8d1e800c0c74da4f6ac00a91fdefb15cb7e42fd0,8312649,Aquatic,0,"0,0045","7,84",2023-06-14 16:23:17,eyes-telescope,ears-nimo,back-pumpkin,mouth-risky-fish,horn-shoal-star,tail-nimo
-0x67e177cc8fffa2590ab0270bc8045ddaa7a4d8b62b3a4ea16acbb324aad4a4c7,2121114,Bug,0,"0,006","10,45",2023-06-14 16:23:02,eyes-confused,ears-leafy,back-scarab,mouth-tiny-turtle,horn-parasite,tail-cottontail
+0x67e177cc8fffa2590ab0270bc8045ddaa7a4d8b62b3a4ea16acbb324aad4a4c7,2121114,Bug,2,"0,006","10,45",2023-06-14 16:23:02,eyes-confused,ears-leafy,back-scarab,mouth-tiny-turtle,horn-parasite,tail-cottontail
 0xa105fcf05328e558b2420bd0067c124ab2538525ad0af2a7222824329e14614e,11770503,Reptile,0,"0,002","3,48",2023-06-14 16:22:47,eyes-neo,ears-inkling,back-shiitake,mouth-doubletalk,horn-oranda,tail-tadpole
 0xa42e968c015813a00c81d811fb5e55b940ef27fae7727a1f27625e2dbb551184,11714925,Aquatic,0,"0,00149","2,6",2023-06-14 16:22:38,eyes-neo,ears-friezard,back-buzz-buzz,mouth-doubletalk,horn-oranda,tail-tadpole
 0x6f0b4ac99a2dc47846d6d2c33d02ea93517610afb55507c7d3186d13a2878c77,11724175,Reptile,1,"0,00276245","4,81",2023-06-14 16:22:20,eyes-neo,ears-inkling,back-garish-worm,mouth-tiny-turtle,horn-oranda,tail-tadpole
@@ -15668,7 +15680,7 @@ txHash,tokenId,class,breedCount,withPrice,withPriceUsd,timestamp,part1,part2,par
 0x86270d16427726f69025cb60253e927f08a9e3d351ec8d8f0a34f3572691e566,11771583,Mech,3,"0,02437306","42,46",2023-06-14 16:19:14,eyes-topaz,ears-innocent-lamb,back-timber,mouth-square-teeth,horn-bumpy,tail-nimo
 0x7355b38aef5aa40998c90c0af13e929137f0ac62f02991d09f21b08ee0a084bb,4252541,Beast,2,"0,0011","1,92",2023-06-14 16:19:11,eyes-zeal,ears-belieber,back-indian-star,mouth-nut-cracker,horn-imp,tail-nut-cracker
 0xbf1a03dcf860d586a750b97296fe8d8bde38ab468b7cc75b04a03faf8681e354,11732827,Beast,0,"0,00101582","1,77",2023-06-14 16:18:17,eyes-little-peas,ears-innocent-lamb,back-jaguar,mouth-nut-cracker,horn-wing-horn,tail-nimo
-0x20ad24c8baa956c0d0bae2d0561f43c68c57a720da8e6d8e36b88407fed71c4f,11704867,Dawn,5,"0,0032","5,58",2023-06-14 16:18:02,eyes-blossom,ears-innocent-lamb,back-green-thorns,mouth-pincer,horn-merry,tail-pupae
+0x20ad24c8baa956c0d0bae2d0561f43c68c57a720da8e6d8e36b88407fed71c4f,11704867,Dawn,5,"0,0032","5,57",2023-06-14 16:18:02,eyes-blossom,ears-innocent-lamb,back-green-thorns,mouth-pincer,horn-merry,tail-pupae
 0x144090fe1f30a8f4498a875a646d738821fc00174253d31a9cebb747c3cd0387,9286221,Plant,2,"0,00063","1,1",2023-06-14 16:18:02,eyes-papi,ears-earwing,back-pumpkin,mouth-serious,horn-leaf-bug,tail-yam
 0xdcb9f73634f5802a090be54a07fb22a43a631e50377844cc17c4e6ac7537fc12,3712615,Beast,1,"0,00074","1,29",2023-06-14 16:17:14,eyes-scar,ears-nut-cracker,back-ronin,mouth-catfish,horn-bumpy,tail-nut-cracker
 0x7ed28324f8019053b71e03cba0544495602066ee8d7ce3dbf89bed8d7e69561a,9446805,Beast,1,"0,0015","2,61",2023-06-14 16:17:05,eyes-chubby,ears-nut-cracker,back-ronin,mouth-nut-cracker,horn-imp,tail-nut-cracker
@@ -15685,7 +15697,7 @@ txHash,tokenId,class,breedCount,withPrice,withPriceUsd,timestamp,part1,part2,par
 0x69bc1f4700b31e557e957d5b486b8b729d590605d3b304393408f6941f680d40,1216703,Beast,3,"0,00073","1,27",2023-06-14 16:15:02,eyes-chubby,ears-nyan,back-ronin,mouth-nut-cracker,horn-imp,tail-nut-cracker
 0x69bcc3f6d1c4bf28ecc8370149f52a9be360a01b58e128c4360f2ffc29a61623,11756722,Bug,1,"0,00225","3,92",2023-06-14 16:14:17,eyes-cucumber-slice,ears-inkling,back-watering-can,mouth-doubletalk,horn-antenna,tail-tadpole
 0x8d4a547f37e1fe2e066fd291b51965a96e1254bac3d2a4052618c324087b2d44,11765925,Bug,1,"0,002","3,48",2023-06-14 16:13:50,eyes-little-peas,ears-tiny-fan,back-indian-star,mouth-piranha,horn-wing-horn,tail-koi
-0xd4c8767a4db136cba21b0856e1c4ea74ce84f72136944dc30bdd4f4942692ea9,11740132,Aquatic,0,"0,00310835","5,42",2023-06-14 16:13:41,eyes-neo,ears-inkling,back-raven,mouth-doubletalk,horn-parasite,tail-shrimp
+0xd4c8767a4db136cba21b0856e1c4ea74ce84f72136944dc30bdd4f4942692ea9,11740132,Aquatic,3,"0,00310835","5,42",2023-06-14 16:13:41,eyes-neo,ears-inkling,back-raven,mouth-doubletalk,horn-parasite,tail-shrimp
 0xa50f52e089ef31a8bfb593e920729fe6584cec277504825dd3e7f61ad86aa72d,11703796,Reptile,5,"0,0065","11,32",2023-06-14 16:13:26,eyes-gecko,ears-small-frill,back-green-thorns,mouth-tiny-turtle,horn-scaly-spoon,tail-yam
 0xf5a4b276254d799d854cd9f42c061e1cb65445788ec7d76934f5f1764c4ad59c,1685153,Aquatic,4,"0,001","1,74",2023-06-14 16:12:50,eyes-telescope,ears-inkling,back-anemone,mouth-piranha,horn-oranda,tail-koi
 0x7632169c0675464dae846304bd3830daef7f2e248baf4986702f15d508d54758,11687828,Mech,0,"0,011","19,16",2023-06-14 16:12:47,eyes-gecko,ears-lotus,back-indian-star,mouth-silence-whisper,horn-strawberry-shortcake,tail-ant
@@ -15707,7 +15719,7 @@ txHash,tokenId,class,breedCount,withPrice,withPriceUsd,timestamp,part1,part2,par
 0xd636cb3a9f34a2de1653240016c9826680799aab50d64d7d2d8eda9f0b66f4e2,11749904,Bug,0,"0,00077682","1,35",2023-06-14 16:07:11,eyes-topaz,ears-innocent-lamb,back-sandal,mouth-square-teeth,horn-parasite,tail-navaga
 0xd1181f3f5c445928c9bb1211c771fc3dca9e4634d001d7a9cfcce6a99c907831,11750825,Bug,5,"0,01","17,42",2023-06-14 16:06:29,eyes-topaz,ears-innocent-lamb,back-goldfish,mouth-square-teeth,horn-pocky,tail-cloud
 0x3068952ad6469a40cf4e2cfe28c4e33633f7ff3c0c651a1046aae046f1ca1b1a,10449724,Mech,3,"0,00075058","1,31",2023-06-14 16:05:50,eyes-confused,ears-innocent-lamb,back-hero,mouth-axie-kiss,horn-dual-blade,tail-hare
-0x97e4ed1d81923a22d70bb27966a1fcc0ec7d6ded95241c0b4d713a2adbf90c34,11770994,Mech,4,"0,02804259","48,86",2023-06-14 16:05:17,eyes-topaz,ears-leafy,back-furball,mouth-risky-fish,horn-bamboo-shoot,tail-grass-snake
+0x97e4ed1d81923a22d70bb27966a1fcc0ec7d6ded95241c0b4d713a2adbf90c34,11770994,Mech,4,"0,02804259","48,85",2023-06-14 16:05:17,eyes-topaz,ears-leafy,back-furball,mouth-risky-fish,horn-bamboo-shoot,tail-grass-snake
 0x53c3644a0b890a17c0d320a18db5cbff94e6e8207db6dfc8f984ba61c161cd5f,11734947,Reptile,3,"0,007","12,2",2023-06-14 16:04:32,eyes-gecko,ears-small-frill,back-green-thorns,mouth-tiny-turtle,horn-scaly-spoon,tail-yam
 0xf91354bb420ac021dd33f3047ca549308907e838d8d27f769fc44006b2545c4d,304508,Aquatic,3,"0,00324349","5,65",2023-06-14 16:04:29,eyes-clear,ears-nimo,back-sponge,mouth-lam,horn-clamshell,tail-nimo
 0x54c3cf7930c4ae929ec239ea3fb6f1f1b86798dde88297982d9da90aff7d99a9,11580042,Beast,3,"0,009","15,68",2023-06-14 16:04:02,eyes-chubby,ears-belieber,back-ronin,mouth-axie-kiss,horn-dual-blade,tail-granmas-fan
@@ -15720,7 +15732,7 @@ txHash,tokenId,class,breedCount,withPrice,withPriceUsd,timestamp,part1,part2,par
 0x5f5130d6de0f2bc39791ad344199f998d9f9b8d8f03a98659bb67456d9ab8c43,11766133,Bug,0,"0,01","17,42",2023-06-14 16:01:02,eyes-topaz,ears-innocent-lamb,back-timber,mouth-peace-maker,horn-bumpy,tail-cloud
 0x86ab5fbefb92c5dabc1035e5a0bf1641cd8718a38d032e2b1d31b1e531b1464f,6456267,Aquatic,5,"0,0007","1,22",2023-06-14 16:00:50,eyes-clear,ears-nimo,back-garish-worm,mouth-toothless-bite,horn-shoal-star,tail-cottontail
 0x310feeff39cd78c821e997d5b230da0bb13490f0abcead592848a46600fb1615,3597379,Aquatic,3,"0,015","26,13",2023-06-14 16:00:44,eyes-sleepless,ears-inkling,back-goldfish,mouth-piranha,horn-shoal-star,tail-nimo
-0x477803caf3f13371796e16f804702b0c495ae927125f0011eb5eae62cc3bc40e,11774247,Bug,0,"0,0117353","20,45",2023-06-14 16:00:41,eyes-topaz,ears-innocent-lamb,back-timber,mouth-tiny-turtle,horn-bumpy,tail-cloud
+0x477803caf3f13371796e16f804702b0c495ae927125f0011eb5eae62cc3bc40e,11774247,Bug,0,"0,0117353","20,44",2023-06-14 16:00:41,eyes-topaz,ears-innocent-lamb,back-timber,mouth-tiny-turtle,horn-bumpy,tail-cloud
 0x4a4e7b967f1134fb74e53fde35f94741908910c6c0799d01e0a40ff2a3b45b59,11769501,Aquatic,0,"0,003","5,23",2023-06-14 16:00:32,eyes-topaz,ears-innocent-lamb,back-perch,mouth-mosquito,horn-bumpy,tail-nimo
 0x70dadc40c8904b1afd6023a02a96c4096b883889d8a93bd8b96040adb93b8d31,10907960,Aquatic,3,"0,00074","1,29",2023-06-14 16:00:23,eyes-clear,ears-nimo,back-balloon,mouth-risky-fish,horn-pocky,tail-koi
 0x97340693ccbdfacf47d09a28ccdd5e35969ec8c1cea61635de555e12a2bbd838,10606797,Dusk,2,"0,00099","1,72",2023-06-14 15:59:53,eyes-topaz,ears-nut-cracker,back-garish-worm,mouth-tiny-turtle,horn-wing-horn,tail-grass-snake
@@ -15732,7 +15744,7 @@ txHash,tokenId,class,breedCount,withPrice,withPriceUsd,timestamp,part1,part2,par
 0x7f93200e1c521266f3ce67426112f6147fdd75cd7c4cf18097a69ce8c969a7dc,1101002,Aquatic,0,"0,0006499","1,13",2023-06-14 15:58:26,eyes-clear,ears-bubblemaker,back-furball,mouth-risky-fish,horn-shoal-star,tail-koi
 0x95325c7d21e81c129d2943e615b5613083371f059e17498300662f551f8254ab,11757303,Reptile,0,"0,0048","8,36",2023-06-14 15:58:11,eyes-chubby,ears-inkling,back-garish-worm,mouth-doubletalk,horn-parasite,tail-tadpole
 0xe84a8c022a8cbf2cf1da2ba3925f01ca9eab015b56448e6c41c41b3ae6a9a174,11741933,Bird,2,"0,00699169","12,18",2023-06-14 15:57:50,eyes-little-owl,ears-owl,back-tri-feather,mouth-little-owl,horn-feather-spear,tail-feather-fan
-0x35811dd5c1d45fb2a190ce377278f8180f5ebc83f227b59fa2318ad1e6d70fca,11757542,Plant,0,"0,0888","154,71",2023-06-14 15:57:11,eyes-neo,ears-inkling,back-raven,mouth-doubletalk,horn-cactus,tail-cottontail
+0x35811dd5c1d45fb2a190ce377278f8180f5ebc83f227b59fa2318ad1e6d70fca,11757542,Plant,0,"0,0888","154,7",2023-06-14 15:57:11,eyes-neo,ears-inkling,back-raven,mouth-doubletalk,horn-cactus,tail-cottontail
 0xb2af5d76c481f5c536ccee044ee069897bfff45fa111ee1e311ef3dfd8d4f82e,11750006,Beast,0,"0,00293223","5,11",2023-06-14 15:56:50,eyes-topaz,ears-nyan,back-ronin,mouth-square-teeth,horn-imp,tail-cottontail
 0xa798a7cf45777f91f55ad85eefaf087b5ef427a47e9ae290777d7aa0418ae74f,7475052,Reptile,2,"0,0023","4,01",2023-06-14 15:56:23,eyes-bookworm,ears-friezard,back-bone-sail,mouth-tiny-turtle,horn-antenna,tail-shiba
 0xcb882f46879c325ba08fe86e43fe4d0421c65c73558d4fb611ad9542e7ffe5d4,11768987,Mech,4,"0,024","41,81",2023-06-14 15:55:44,eyes-topaz,ears-innocent-lamb,back-goldfish,mouth-piranha,horn-babylonia,tail-nimo
@@ -15751,7 +15763,7 @@ txHash,tokenId,class,breedCount,withPrice,withPriceUsd,timestamp,part1,part2,par
 0x7f58b666c621b5d12d69a36449aeee38f23ecfe0dc9489028e6d7f4b5e1bf14a,11527604,Beast,3,"0,0085","14,81",2023-06-14 15:52:23,eyes-little-peas,ears-owl,back-ronin,mouth-confident,horn-cactus,tail-cottontail
 0xaf4a37b5449b350ca1ff649ef79b3c531b18b14d09c1c4b3599d54c3fc437eb3,11760702,Bug,3,"0,002199","3,83",2023-06-14 15:52:11,eyes-topaz,ears-innocent-lamb,back-timber,mouth-square-teeth,horn-bumpy,tail-yam
 0x046e3641c15ac4d83275b57f74de07cba2387bff9372405892da64016bf8065d,11729960,Bug,0,"0,001","1,74",2023-06-14 15:51:59,eyes-neo,ears-curved-spine,back-turnip,mouth-catfish,horn-leaf-bug,tail-ant
-0x49333b9a88473eb8626054dd700f7751d74651caaf6b5a658b92d55772ae5e2e,2724904,Aquatic,2,"0,00064","1,12",2023-06-14 15:51:56,eyes-clear,ears-bubblemaker,back-perch,mouth-catfish,horn-oranda,tail-navaga
+0x49333b9a88473eb8626054dd700f7751d74651caaf6b5a658b92d55772ae5e2e,2724904,Aquatic,2,"0,00064","1,11",2023-06-14 15:51:56,eyes-clear,ears-bubblemaker,back-perch,mouth-catfish,horn-oranda,tail-navaga
 0xa6f96fbb5e6559a6bcfb2b6301b1c88dadf2147e3092bf2d12ad61b22fa06e4b,11748168,Reptile,1,"0,0027","4,7",2023-06-14 15:51:50,eyes-gecko,ears-small-frill,back-green-thorns,mouth-tiny-turtle,horn-anemone,tail-gila
 0x6c599c0c473ca4cdcbd60476b0f95108ee909a0945c3e3d63c95079c11a8813b,11536606,Beast,0,"0,012","20,91",2023-06-14 15:51:50,eyes-chubby,ears-nyan,back-ronin,mouth-confident,horn-dual-blade,tail-cottontail
 0x802711f9e973c46044ac5b8c89f81609a3f54412185658655afe5c925b624300,6031018,Beast,2,"0,00075","1,31",2023-06-14 15:51:44,eyes-gero,ears-nut-cracker,back-ronin,mouth-square-teeth,horn-imp,tail-nut-cracker
@@ -15760,9 +15772,3 @@ txHash,tokenId,class,breedCount,withPrice,withPriceUsd,timestamp,part1,part2,par
 0x42e121355742bec0d0bd54bcfb55bdb19c9507452711336937bb1b710b0f54b4,8877819,Aquatic,0,"0,00065","1,13",2023-06-14 15:50:50,eyes-clear,ears-inkling,back-goldfish,mouth-risky-fish,horn-oranda,tail-koi
 0xb9a67da94443c3a24fa687259f0a0c7c894fc5a0120f47392a5540d9870249b5,11588965,Bird,2,"0,0009","1,57",2023-06-14 15:50:26,eyes-neo,ears-early-bird,back-tri-feather,mouth-little-owl,horn-kestrel,tail-granmas-fan
 0x2141c087081f26640f541708c0f5666c8df18e651f6141b56178e388e608ef40,9989600,Plant,3,"0,0008","1,39",2023-06-14 15:50:26,eyes-cucumber-slice,ears-sidebarb,back-bone-sail,mouth-zigzag,horn-cactus,tail-cattail
-0x99b39208edd1d2c6654665a4fdfeda1d671ce5bbe735f03942541e948a3577a1,11726440,Dusk,0,"0,0007","1,22",2023-06-14 15:50:05,eyes-zeal,ears-swirl,back-pumpkin,mouth-doubletalk,horn-cactus,tail-hatsune
-0xf84a03eee178daec183b10c08042cc90524e7c8a946f280c6071a5f3d0692ad3,11462333,Reptile,0,"0,003","5,23",2023-06-14 15:49:38,eyes-gecko,ears-curved-spine,back-indian-star,mouth-kotaro,horn-teal-shell,tail-tiny-dino
-0x3c2123329e786d84a9c8cad1f78be15d2ec6c324a9ec169a98a1d5357cfec950,11772987,Bug,3,"0,012","20,91",2023-06-14 15:49:35,eyes-topaz,ears-innocent-lamb,back-spiky-wing,mouth-square-teeth,horn-bumpy,tail-nimo
-0x347b46fc06e7136748d5f64bc2754e72005b281e2337290ad983d74a1f7fae82,3645828,Beast,3,"0,0018","3,14",2023-06-14 15:49:35,eyes-chubby,ears-innocent-lamb,back-ronin,mouth-goda,horn-imp,tail-cottontail
-0xe3a2b925b9b8880c4361d572db5ccec4905cf38e5dfecf0aed7dd7dccd31cb08,10349866,Plant,4,"0,0008","1,39",2023-06-14 15:49:35,eyes-papi,ears-nut-cracker,back-sandal,mouth-zigzag,horn-cactus,tail-cattail
-0x500d239c5ac000f1dd551446f75dfa4363cd3ad6cd788912e20536e917fa44d9,107904,Plant,2,"0,001095","1,91",2023-06-14 15:49:20,eyes-gero,ears-hollow,back-goldfish,mouth-zigzag,horn-rose-bud,tail-feather-fan
